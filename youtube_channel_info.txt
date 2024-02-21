@@ -1,11 +1,14 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Gemeinde TV| Austria | | 
+Gemeinde TV| News | | 
 https://www.youtube.com/watch?v=3IgHa6SSLXw
 
-OE24TV | Austria| |
+OE24TV | News | |
 https://www.youtube.com/watch?v=zinF90PvBhk
+
+Bild TV | News | |
+https://www.youtube.com/watch?v=XeA0El2PQrg
 
 Rhodes1 | Livecam| |
 https://www.youtube.com/watch?v=BM7QefFNY7c
@@ -37,3 +40,5 @@ https://www.youtube.com/watch?v=lwOkHeH28BA
 Rhodes10 | Livecam| |
 https://www.youtube.com/watch?v=drhmo4XSVYA
 
+ISS NASA | Livecam| |
+https://www.youtube.com/watch?v=xRPjKQtRXR8
