@@ -12,43 +12,43 @@
 
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", Gemeinde TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607076/ei/BARRZvapA4yLlu8P5tqDuAQ/ip/172.183.36.19/id/3IgHa6SSLXw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMIQD_gdWjNFibWrJF2K9x8d5XreNcHBBFqGUNPbMYqPAiA-GIrStScoiQowqMr-ulWG6vPHVFmCERhzoZCcWu1fIg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="News" tvg-logo="" tvg-id="", OE24TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607078/ei/BgRRZv_bAuCPlu8PxqGukAg/ip/172.183.36.19/id/BM7QefFNY7c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJthXq8SxoaoyAqbscYCr3c-19YQW0-g7DgBJm8ojIz7AiEA0O0EBkBSm6nW5myVAS_gMx6PrjKU7XGanYbhOkT-zms%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607078/ei/BgRRZrqCJPvzir4P7YKrgAk/ip/172.183.36.19/id/aXy6DNLm5OA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgASfJn_Wnh35Nl9eqq-rIE-UjhFLbLvGfdQpkm0fHGEICIQDJNtt3aEee4JHFcIGVL_OovPVGLrfj3Blw4UU48hPeVg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607079/ei/BwRRZqHLCrmWlu8Pm-yAwAM/ip/172.183.36.19/id/He4T9Lo0QfQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51183013/txs/51183013%2C51183014/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALRxA0R0SPYqQ2qYeXzSdCSm9hviKM_HuOh6_ilPzMQOAiEA3HHpEPSjnpLEl_HJaUOkOIDLMmfP8sjXHzS3NAEWvbc%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes4
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607079/ei/BwRRZp-vLYmCir4PntiVgAk/ip/172.183.36.19/id/fjVnkBkSinI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOuypBR2lt2rFfj91wiIn_fxN9qKEqBn3YMbUcKCIGneAiEAg_DWp1rZAix3zkSb0pKfZJ6S4EPRWsKmulcCUl1MJzI%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes5
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607080/ei/CARRZo3wD6_Olu8Pp4-lmAU/ip/172.183.36.19/id/h8ZGGzCcL5g.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1YDokNnAAX9jtEAnkRfCOAX0Moqb5Ei7eD876qMGS-QaV9cqyJ96od0Y3E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRgvGvs4x7szN93Z-7HQnrVFpcyrlKQdS7Mwmgjc-ZSACIFhgJro9nX6rvp1uVfcJ5vrjcUc-uUGd56m9HgXG2sHx/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes6
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607081/ei/CQRRZoywA-PbybgPs6-bqAk/ip/172.183.36.19/id/WXn4dxTjSEs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKJxM8NYD9YLF5cmeOdJnhCOEABSJr8JyxhS-5dz-K0qAiEA1nIsEGqNjkjCvWJdk7kJ0TeFrM6iRcc8Q7xaWZJO-KM%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607081/ei/CQRRZoKgKt3nir4P8Z2tgAw/ip/172.183.36.19/id/iKdqRI9ljhg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwjSuMdnIzXnBqE5JnBXmt0V5VLC1a6b_Uze38GT_fRnRQuV2B2jaxVQScc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANqC8np_XegOoi508bei67SSezrRE3IkJiqJNkLEqD7BAiAHhvSSawHgaRJNvjnM9Rjc-ns81fi_-adgrre6-Cik-A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607082/ei/CgRRZt6rFqKeybgPzpCYqAY/ip/172.183.36.19/id/G7ODqfCsNxc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKcIRgLhowSHkycFWt8RKfn3owwt120C-S7FnqKuVXGYCIDOKKz1sxe6skE9ToDqJ71s0bjGqd0Yh4i8NwOjzux2u/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes9
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes10
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607084/ei/DARRZtXrC9XDlu8PyPCHyAo/ip/172.183.36.19/id/drhmo4XSVYA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0pdcPBcWUsNjO2rJJ0oVbmpItez462ziQPY58C8SJHxZz708zI5COreNBM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJtNQX0lxXfNPoSniXLs-Jqd1HxDXBYIEDTzatNV_1AcCIChMdkmKb9jgtcGY8knV0mehqMS0fb0wemqaezHUsFF4/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", Rhodes11
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607084/ei/DARRZrvXLqSjir4P-cu8kAo/ip/172.183.36.19/id/V513W2TVk50.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177563/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHVmBmNlIQMxmoPTideqRa8coprEQ5J2NqIcF9zlB3P8CIFT43kbJpsDB6HbhBVZ6MRemIvTpwlAq4hxa5SFZ-rUy/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Livecam" tvg-logo="" tvg-id="", ISS NASA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716607085/ei/DQRRZqv7EbuU2_gP0PiC-AM/ip/172.183.36.19/id/xRPjKQtRXR8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177565/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBL6-JMNx2f45ukEE5izqBQPRbVXlQdhXc_QOF5vMVxYCIQDQf_2hxyMmtyQzKmLvfYfXWmDIArbcyibMSuPqIWVkkg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
